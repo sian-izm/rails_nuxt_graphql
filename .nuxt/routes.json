@@ -1,0 +1,16 @@
+[
+  {
+    "name": "vue.config",
+    "path": "/vue.config",
+    "component": "/Users/sianizm/code/rails_nuxt_graphql/pages/vue.config.js",
+    "chunkName": "pages/vue.config",
+    "_name": "_4f773c4a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sianizm/code/rails_nuxt_graphql/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6be4c027"
+  }
+]
